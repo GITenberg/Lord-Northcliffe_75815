@@ -1,11 +1,16 @@
 _repo: Lord-Northcliffe_75815
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75815-h/images/cover.jpg
 creator:
   author:
     agent_name: Viollis, Andrée
     gutenberg_agent_id: '58162'
     url: http://www.gutenberg.org/2009/agents/58162
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75815#Lord-Northcliffe
 gutenberg_issued: '2025-04-08'
 gutenberg_type: Text
 identifiers:
